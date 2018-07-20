@@ -19,3 +19,5 @@ bbbbbbbbbbbbb
 Git is free software distributed under the GPL.*/
 
 /*branck test*/
+
+/*Creating a new branch is quick & simple.*/
