@@ -14,4 +14,5 @@ for (inem in f1) {
 
 /*Git is a distributed version control system.
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Git tracks changes.
 Git is free software distributed under the GPL.*/
